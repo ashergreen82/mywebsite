@@ -23,15 +23,15 @@
     "navigation": {
       "header": [
         {
-          "label": "About",
+          "label": "About Me",
           "url": "/#about"
         },
         {
-          "label": "Blog",
+          "label": "Skills",
           "url": "/blog"
         },
         {
-          "label": "Features",
+          "label": "Projects",
           "url": "/#features"
         },
         {
