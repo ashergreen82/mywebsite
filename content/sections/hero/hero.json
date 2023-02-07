@@ -13,14 +13,5 @@
     "prefix": "I am a ",
     "highlight": "Software Developer",
     "suffix": "."
-  },
-  "description": "Feel free to reach out to my at anytime:",
-  "socialProfiles": {
-    "from": [
-      "LinkedIn",
-      "Github",
-      "Mail"
-    ],
-    "showIcons": false
   }
 }
