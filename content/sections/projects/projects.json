@@ -17,11 +17,11 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/ashergreen82/Calculator-App.git"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://ashergreen82.github.io/Calculator-App/"
         }
       ]
     },

@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Asher Green<br />
+727 Balaton Ave<br />
+Pickering, ONT<br />
+Canada
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>asher@ashergreen.ca</u>
 
 ---
 
