@@ -14,5 +14,3 @@ So, I studied at the Radio College of Canada, where I learned how to program the
 I worked for a few years in electronics and as a Network Administrator.  I had to leave the industry due to the lack of funds to keep up with technology.  This hurt the most because of my strong passion to learn that burns inside of me refused to be extinguished.
 
 In the past few years, while deciding on where to go next in my life, I decided that I wanted to refuel my passion for programming by becoming a software engineer.  It became my goal to finally become the programmer that I had always wanted to be.
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash

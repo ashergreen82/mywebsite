@@ -2,14 +2,17 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🕹️ BASIC RETRO CALCULATOR APP",
+      "title": "A simple calculator application written in Javascript, HTML, and CSS",
+      "description": "Not as simple as it looks!  Lot's of detail in writing this program.  I spent a lot of time going through each element of the code line by line to get it to work. This was a huge challenge for me, as often when one thing was fixed it broke something else.  Or when everything up until that point worked, I would add a new thing and the program would fail.  This program was a tricky balancing act that tested my resolve as a programmer.  I learned quite a lot with this program and though it took me quite a few weeks to put it together I have come out of it a much stronger an more capable programmer.  I learned how to work more closely with event handlers.  I learned how to debug in an event driven program, while getting lot's of practice working through the logic to make it all work.  So, without further adiou, go to the github page, and enjoy!",
+      "tags": [
+        "Content Integration",
+        "Ready-2-Deploy"
+      ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Calculator-Screen-Shot.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://ashergreen82.github.io/Calculator-App/"
       },
       "links": [
         {
@@ -27,7 +30,10 @@
       "category": "🧰 EXTENDABLE LAYOUT",
       "title": "Add more sections!",
       "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "tags": [
+        "Custom Sections",
+        "Easy-2-Use"
+      ],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
         "alt": "Extendable Layout"
@@ -35,7 +41,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/ashergreen82"
         }
       ]
     }
@@ -43,6 +49,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/ashergreen82"
   }
 }
