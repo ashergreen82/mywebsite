@@ -23,16 +23,17 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "category": "🧰 SIMPLE EXPENSE TRACKER",
+      "title": "A simple expense tracker written in Javascript, HTML, and CSS",
+      "description": "I wrote this program to learn React.  This is my first time ever using a framework. It was an experience learning it's intracacies, so much so, that at some point I was wondering why we even have frameworks.  I am starting to see the value in using a framework the more I use it.  I will be using it on my next project to gain more experience with it. I also learned Bootstrap 5.  The first is how CSS reacts with Bootstrap.  I started using CSS style things and when I introduced Bootstrap, I spent hours tryhing to figure out why things refused to work. So, I removed the CSS, and stuck with Bootstrap and then things started working.",
       "tags": [
         "Custom Sections",
         "Easy-2-Use"
       ],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/expense_tracker_screenshot.jpg",
+        "alt": "Extendable Layout",
+        "linkTo": "https://63c2f2489ccdc732de19a7b5--bucolic-froyo-de7845.netlify.app/"
       },
       "links": [
         {
