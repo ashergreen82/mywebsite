@@ -3,56 +3,42 @@
     {
       "label": "Python",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/javascript.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "HTML/CSS",
+      "label": "HTML",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/html5.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "CSS",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/css.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Bootstrap",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/Bootstrap.png",
         "alt": ""
       }
     }
@@ -60,6 +46,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 6
   }
 }

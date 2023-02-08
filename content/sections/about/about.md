@@ -1,9 +1,11 @@
 ---
-imageSrc: "../../images/Cropped-picture-of Asher-holidng-a baby-lamp.jpg"
+imageSrc: "../../images/Goodpicture of Asher holidng a baby lamp.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I was at a very young age when I laid eyes on the very first computer I had ever seen, and at that moment, I fell in love.  From that point on, I had always wanted to learn how computers worked, and I wanted to learn to program.  I love technology and my entire life has always been excited to learn about new advancements and new technologies that were on the horizon to make our lives easier, and more comfortable.
+I remember when I was kid, going to a friend's house on a lovely Sunday afternoon, walking through the front door, through to the dining room and I laid eyes on the very first computer I had ever seen.  It was a Commodore 8032, and at the same time, my friends were playing Space Invaders, the very first computer game I had ever seen. I fell in love.
+
+From that point on, I had always wanted to learn how computers worked, and I wanted to learn to program.  I love technology and my entire life has always been excited to learn about new advancements and new technologies that were on the horizon to make our lives easier, and more comfortable.
 
 It wasn’t enough for me to play a video game, do any wordprocessing, manipulating graphics images, or working on a spreadsheet on this new computer I had discovered.  The passion burned inside of me to learn how to program the computer myself.  To create my own programs and to understand exactly how it worked.  I distinctly remember watching a news article on TV where a couple of young kids were “programming their own games instead of playing them”.  The passion to program my own creations on the computer burned even more.  
 
