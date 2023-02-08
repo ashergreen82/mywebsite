@@ -5,9 +5,6 @@ sectionId: imprint
 #### Information pursuant to § 5 TMG
 
 Asher Green<br />
-727 Balaton Ave<br />
-Pickering, ONT<br />
-Canada
 
 E-Mail Address: <u>asher@ashergreen.ca</u>
 
