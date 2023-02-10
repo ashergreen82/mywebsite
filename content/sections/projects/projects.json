@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️🖩 😀LOGIC, GENERAL PROGRAMMING",
+      "category": "Pocket Calculator Emoji LOGIC, GENERAL PROGRAMMING",
       "title": "Basic Retro Calculator APP",
       "description": "Not as simple as it looks!  Lot's of detail in writing this program.  I spent a lot of time going through each element of the code line by line to get it to work. This was a huge challenge for me, as often when one thing was fixed it broke something else.  Or when everything up until that point worked, I would add a new thing and the program would fail.  This program was a tricky balancing act that tested my resolve as a programmer.  I learned quite a lot with this program and though it took me quite a few weeks to put it together I have come out of it a much stronger an more capable programmer.  I learned how to work more closely with event handlers.  I learned how to debug in an event driven program, while getting lot's of practice working through the logic to make it all work.  So, without further adiou, go to the github page, and enjoy!",
       "tags": [
@@ -28,7 +28,7 @@
     },
     {
       "visible": true,
-      "category": "🧰 FRAMEWORKS, LOCAL STORAGE",
+      "category": "FRAMEWORKS, LOCAL STORAGE",
       "title": "Simple Expense Tracker",
       "description": "I wrote this program to learn React.  This is my first time ever using a framework. It was an experience learning it's intracacies, so much so, that at some point I was wondering why we even have frameworks.  I am starting to see the value in using a framework the more I use it.  I will be using it on my next project to gain more experience with it. I also learned Bootstrap 5.  The first is how CSS reacts with Bootstrap.  I started using CSS style things and when I introduced Bootstrap, I spent hours tryhing to figure out why things refused to work. So, I removed the CSS, and stuck with Bootstrap and then things started working.",
       "tags": [
@@ -54,7 +54,7 @@
     },
     {
       "visible": true,
-      "category": "🧰 FRAMEWORKS, ACCESSING EXTERNAL DATA",
+      "category": "FRAMEWORKS, ACCESSING EXTERNAL DATA",
       "title": "Star Wars API",
       "description": "What better way to learn how APIs work then through a free open source API such as the Star Wars API?  That is the purpose for me writing the Star Wars API app.  I continued my education with React and Javascript along with Bootstrap 5.  This time however, I didn't use much CSS.  I just used strictly Bootstrap to get a feel for Bootstrap and it's capabilities.  I learned from my last project that the CSS has a hiarchy as to what commands are executed which is why I had so much trouble getting things styled. In this app, I used this knowledge to make my life easier and turn the app into what it is. The big thing I learned in this project was learning promises.  Promises are a complicated concept best learned by using it.  And this is what I have accomplished in project.  I used Axios library to access the Star Wars data. The next big thing was manipulating the data to display on the screen.  For example, each human in the database is listed as blank in the \"species\" column.  I had to add the \"Human\" word to replace the blank field. I learned how to make a button appear or disappear when it's needed, which is what I did for the previous and next buttons.  I managed to figure out how to get the page navigation bar at the bottom to only show the buttons that actually contain data in it to show.  All in all, this project was an amazing learning experience, and I enjoyed every minute of it.",
       "tags": [
@@ -82,7 +82,7 @@
     },
     {
       "visible": false,
-      "category": "🧰 EXTENDABLE LAYOUT",
+      "category": "EXTENDABLE LAYOUT",
       "title": "Add more sections!",
       "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
       "tags": [
