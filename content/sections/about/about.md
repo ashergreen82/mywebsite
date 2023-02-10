@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/Goodpicture of Asher holidng a baby lamp.jpg"
+imageSrc: "../../images/Cropped-picture-of Asher-holidng-a baby-lamp.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 

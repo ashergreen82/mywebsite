@@ -46,17 +46,17 @@
       },
       "footer": [
         {
-          "label": "Privacy",
+          "label": "",
           "url": "/privacy"
         },
         {
-          "label": "Imprint",
+          "label": "",
           "url": "/imprint"
         }
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }
