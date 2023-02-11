@@ -90,7 +90,8 @@
       ],
       "image": {
         "src": "../../images/screenshot-shifted.png",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://replit.com/@AsherGreen/Hangman?v=1"
       },
       "links": [
         {
@@ -113,7 +114,8 @@
       ],
       "image": {
         "src": "../../images/passcode_screenshot.png",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://replit.com/@AsherGreen/PasscodeGrid?v=1"
       },
       "links": [
         {
