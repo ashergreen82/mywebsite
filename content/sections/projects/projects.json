@@ -84,7 +84,7 @@
       "visible": true,
       "category": "PYTHON, OBJECT ORIENTRED PROGRAMING",
       "title": "Classic Hangman Game",
-      "description": "Looking for projects to work on, I found a website that had a nice list of projects and one of them was Hangman. This brought back memories, because back when I was young, Hangman was one of the classic favourits we used to play on those old 8 bit computers.  One of the most important lessons I learned while programming this was file manipulation.  The game uses a large file I donwloaded off the internet which contains over 200, 000 words to choose from.  So I had to access the file and select one of the words from the file and use that as the word the player has to guess. I also wrote the program using the object oriented model of programming which is new to me.  I had never programmed in OOP before and this was a great learning opportunity.",
+      "description": "Looking for projects to work on, I found a website that had a nice list of projects and one of them was Hangman. This brought back memories, because back when I was young, Hangman was one of the classic favourits we used to play on those old 8 bit computers.  One of the most important lessons I learned while programming this was file manipulation.  The game uses a large file I donwloaded off the internet which contains over 200,000 words to choose from.  So I had to access the file and select one of the words from the file and use that as the word the player has to guess. I also wrote the program using the object oriented model of programming which is new to me.  I had never programmed in OOP before and this was a great learning opportunity.",
       "tags": [
         "Python"
       ],
@@ -108,7 +108,7 @@
       "visible": true,
       "category": "PYTHON PYTHON LIBRARIES",
       "title": "Passcode Grid",
-      "description": "While I was doing my taxes last year, the CRA had offered an option to use a passcode grid as part of the authenication process.  I thought to myself \"Hey!  I Can do that!!!\", so I got to work. The grid works by you storing a copy on your comptuer somewhere safe, and it stores a copy in your profile.  After you login with your username and password it will then randomly ask you to type in the characters found in say A1.  It will ask three times.  The questions are random, so you have to have the whole chart with you.  To demonstrate how this works, I added a routine after the chart is created randomly asking for what is in each cell.",
+      "description": "While I was doing my taxes last year, the CRA had offered an option to use a passcode grid as part of the authenication process.  I thought to myself \"Hey!  I Can do that!!!\", so I got to work. The grid works by you storing a copy on your computer somewhere safe, and it stores a copy in your profile.  After you login with your username and password it will then randomly ask you to type in the characters found in say A1.  It will ask three times.  The questions are random, so you have to have the whole chart with you.  To demonstrate how this works, I added a routine after the chart is created randomly asking for what is in each cell.",
       "tags": [
         "Python"
       ],
