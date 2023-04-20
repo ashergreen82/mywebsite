@@ -22,7 +22,8 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/ashergreen82/Chat-App"
+          "url": "https://github.com/ashergreen82/Chat-App",
+          "linkTo": "https://chatapp-fdyf.onrender.com"
         }
       ]
     },
@@ -45,7 +46,8 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/ashergreen82/Twitter-Showcase-App"
+          "url": "https://github.com/ashergreen82/Twitter-Showcase-App",
+          "linkTo": "https://twitter-showcase-app-ucxm.onrender.com/"
         }
       ]
     },
