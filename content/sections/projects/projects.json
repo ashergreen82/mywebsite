@@ -17,13 +17,17 @@
       ],
       "image": {
         "src": "../../images/chatapp.png",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://chatapp-fdyf.onrender.com"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/ashergreen82/Chat-App",
-          "linkTo": "https://chatapp-fdyf.onrender.com"
+          "url": "https://github.com/ashergreen82/Chat-App"
+        },
+        {
+          "type": "external",
+          "url": "https://chatapp-fdyf.onrender.com"
         }
       ]
     },
@@ -41,13 +45,17 @@
       ],
       "image": {
         "src": "../../images/Twitter.png",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://twitter-showcase-app-ucxm.onrender.com/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/ashergreen82/Twitter-Showcase-App",
-          "linkTo": "https://twitter-showcase-app-ucxm.onrender.com/"
+          "url": "https://github.com/ashergreen82/Twitter-Showcase-App"
+        },
+        {
+          "type": "external",
+          "url": "https://twitter-showcase-app-ucxm.onrender.com/"
         }
       ]
     },
