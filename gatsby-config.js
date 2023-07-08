@@ -1,6 +1,15 @@
 module.exports = {
   plugins: [
     {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-5R7GV24",
+        includeInDevelopment: false,
+        // Defaults to false
+        // enableWebVitalsTracking: true,
+        // Defaults to https://www.googletagmanager.com
+        // selfHostedOrigin: "YOUR_SELF_HOSTED_ORIGIN",
+      },
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
