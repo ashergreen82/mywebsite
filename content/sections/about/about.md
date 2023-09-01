@@ -3,7 +3,7 @@ imageSrc: "../../images/Goodpicture of Asher holidng a baby lamp.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-As a child, I recall visiting a friend's house on a beautiful Sunday afternoon. Upon entering the dining room, my eyes were met with the sight of my first-ever computer: a Commodore 8032. At the same time, my friends were playing the first computer game I had ever seen, Space Invaders. That moment, I fell in love with technology.
+As a child, I recall visiting a friend's house on a beautiful Sunday afternoon. Upon entering the dining room, my eyes were met with the sight of my first-ever computer: a Commodore CBM 8032. At the same time, my friends were playing the first computer game I had ever seen, Space Invaders. That moment, I fell in love with technology.
 
 From that day on, I was determined to learn about computers and how to program. My fascination with technology never faded, and I was always eager to learn about new advancements and technologies that could improve our lives.
 
